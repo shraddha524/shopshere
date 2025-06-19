@@ -8,25 +8,15 @@
 
 🧰 Tech Stack
 
-⚡ Quick Start
-
 🔐 Advanced Authentication
 
 🤖 Product Recommendation ML
-
-🛠️ Folder Architecture
-
-📸 Screenshots
 
 📢 More
 ***************************************
 
 **🚀 Introduction**
-
-Shopshere is a real-world, full-stack multi-vendor e-commerce SaaS product, not just another store template. Built with powerful personalization, recommendation engines, real-time analytics, and advanced authentication systems.
-
-Everyday, over 3 billion users interact with e-commerce platforms. Shopshere is designed to match that scale and sophistication.
-
+Shopshere is a real-world, scalable multi-vendor e-commerce SaaS platform that provides modern, production-ready features to support buyers, sellers, and admins. It’s not just a store — it's a real e-commerce system with subdomains, authentication, analytics, and machine learning-based recommendations.
 It comes with three frontends (subdomains):
 
 eshop.com → User site
@@ -36,42 +26,54 @@ seller.eshop.com → Seller dashboard
 admin.eshop.com → Admin dashboard
 **************************************
 
+🔋 Features
 
-**🧠 Features**
+🔐 Advanced Authentication (OTP with lockout, resend logic)
 
-🔐 Advanced OTP-Based Authentication
-🛍️ User account registration and login
+👤 Role-based Dashboards (User, Seller, Admin)
 
-🧾 Product listing and filtering by category/subcategory
+🛍 Product Listings & Wishlist
 
-📈 Real-time analytics
+📦 Inventory Management
 
-📬 OTP email verification with retry limit
+📝 Order Management
 
-🔄 Resend OTP with lockout system
+💬 Real-time Notifications & Email
 
-🤖 Custom Machine Learning product recommendation system
+💥 Analytics Tracking
 
-📦 Seller admin panel for managing products/orders
+🧠 Custom Product Recommendation Engine
 
-🧑‍💼 Admin panel for global control
+🌐 Responsive Design
 
-📱 Fully responsive on all devices
+📤 Image Upload & Storage
+
+🚀 CI/CD with GitHub Actions
 ******************
 
-🧰 Tech Stack
+⚙️ Tech Stack
 
-Frontend: Next.js, React Hook Form, TailwindCSS, ShadCN UI
+Next.js (App Router)
 
-Backend: Node.js, Express, MongoDB
+React Hook Form
 
-Auth & Cache: Redis, JWT, Rate-limiting
+TailwindCSS
 
-Email Service: Nodemailer, Mailtrap
+Express.js (Nx Monorepo)
 
-Machine Learning: TensorFlow.js, custom model
+TypeScript
 
-DevOps: Nx Monorepo, Docker, GitHub Actions CI
+Redis
+
+Kafka (Event-driven architecture)
+
+PostgreSQL / MongoDB
+
+Sentry for Error Monitoring
+
+JWT for Auth
+
+Custom Machine Learning Model (TensorFlow)
 
 ***************************
 
