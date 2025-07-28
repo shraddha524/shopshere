@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cde8908-0b1a-4563-ae51-2da791830230" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eshop/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/.spec.swcrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/jest.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/src/eshop/eshop.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/src/support/global-setup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/src/support/global-teardown.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/src/support/test-setup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop-e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/.spec.swcrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/jest.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/apps/eshop/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/jest.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/jest.preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/nx.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/tsconfig.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eshop" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30JYyzFT7LPgThk1doy2tJ9a9sC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cde8908-0b1a-4563-ae51-2da791830230" name="Changes" comment="" />
+      <created>1753347408342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753347408342</updated>
+      <workItem from="1753347408344" duration="6421000" />
+      <workItem from="1753720041742" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
